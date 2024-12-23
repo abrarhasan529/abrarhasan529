@@ -1,30 +1,25 @@
-[![MasterHead](https://ibb.co.com/9Hd4L3g)]
-<h1 align="center">Hello, I'm Md Abrar Hasan</h1>
-<h3 align="center">A passionate frontend web developer</h3>
+![](https://ibb.co.com/9Hd4L3g)
+### Hi there 👋, I'm Md Abrar Hasan
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abrarhasan529&label=Profile%20views&color=0e75b6&style=flat" alt="abrarhasan529" /> </p>
+A young computer programmer who is so enthusiastic about Web Development and interested in building a fruitful career in this demanding sector.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abrarhasan529" alt="abrarhasan529" /></a> </p>
+Skills: React / JS / HTML / CSS / Tailwind
 
-<p align="left"> <a href="https://twitter.com/tweets_by_abrar" target="blank"><img src="https://img.shields.io/twitter/follow/tweets_by_abrar?logo=twitter&style=for-the-badge" alt="tweets_by_abrar" /></a> </p>
+- 📖 I’m currently working on BRAC University 
+- 📫 How to reach me: abrarhasan2616@gmail.com 
 
-- 📖 Currently studying at **BRAC University**
 
-- 📫 How to reach me **abrarhasan2616@gmail.com**
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/abrarhasan529)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/in/mdabrarhasan/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/abrarhasan7538)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/_abrar.hasan_/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/tweets_by_abrar)  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/tweets_by_abrar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tweets_by_abrar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/in/mdabrarhasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/mdabrarhasan" height="30" width="40" /></a>
-<a href="https://fb.com/abrarhasan7538" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abrarhasan7538" height="30" width="40" /></a>
-<a href="https://instagram.com/_abrar.hasan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_abrar.hasan_" height="30" width="40" /></a>
-</p>
+<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=abrarhasan529)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abrarhasan529&show_icons=true&locale=en&layout=compact" alt="abrarhasan529" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abrarhasan529)](https://github.com/anuraghazra/github-readme-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abrarhasan529&show_icons=true&locale=en" alt="abrarhasan529" /></p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=abrarhasan529&show_icons=true&count_private=true)  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abrarhasan529&" alt="abrarhasan529" /></p>
+![GitHub metrics](https://metrics.lecoq.io/abrarhasan529)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=abrarhasan529)  
+
