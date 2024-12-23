@@ -1,4 +1,4 @@
-![](https://ibb.co.com/9Hd4L3g)
+<img src="https://ibb.co.com/9Hd4L3g" alt="My Project Banner" width="100%" />
 ### Hi there 👋, I'm Md Abrar Hasan
 
 A young computer programmer who is so enthusiastic about Web Development and interested in building a fruitful career in this demanding sector.
