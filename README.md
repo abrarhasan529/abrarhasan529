@@ -1,12 +1,12 @@
 
-### Hi there 👋, I'm Md Abrar Hasan
+### Hi there! I'm Md Abrar Hasan
 
 A young computer programmer who is so enthusiastic about Web Development and interested in building a fruitful career in this demanding sector.
 
-Skills: React / JS / HTML / CSS / Tailwind
+🔧 Skills: **React / JS / HTML / CSS / Tailwind**
 
-- 📖 I’m currently working on BRAC University 
-- 📫 How to reach me: abrarhasan2616@gmail.com 
+- 📖 Currently studying Computer Science at **BRAC University**
+- 📫 How to reach me: **abrarhasan2616@gmail.com**
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/abrarhasan529)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/in/mdabrarhasan/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/abrarhasan7538)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/_abrar.hasan_/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/tweets_by_abrar)  
