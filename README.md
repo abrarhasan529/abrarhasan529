@@ -16,5 +16,3 @@ A young computer programmer who is so enthusiastic about Web Development and int
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abrarhasan529)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=abrarhasan529&show_icons=true&count_private=true)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=abrarhasan529)  
