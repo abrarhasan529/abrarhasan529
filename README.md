@@ -1,6 +1,6 @@
 # Hi there! I'm Md Abrar Hasan
 
-#### **A young computer programmer who is so enthusiastic about Web Development and interested in building a fruitful career in this demanding sector.**
+#### ***A young computer programmer who is so enthusiastic about Web Development and interested in building a fruitful career in this demanding sector.***
 
 🔧 Skills: **React / JS / HTML / CSS / Tailwind**
 
