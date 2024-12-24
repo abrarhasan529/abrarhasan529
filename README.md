@@ -12,7 +12,7 @@ As an enthusiast in web development, I gained expertise in the field of front-en
 
 🔍 Currently, I am eagerly seeking internship opportunities to further enhance my expertise and broaden my professional horizons.
 
-Contact:
+🔗 Contact:
 - 📧 **abrarhasan2616@gmail.com**
 - 📞 **+880-1842-391734**
 
