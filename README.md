@@ -14,8 +14,8 @@ As an enthusiast in web development, I gained expertise in the field of front-en
 🔍 Currently, I am eagerly seeking internship opportunities to further enhance my expertise and broaden my professional horizons.
 
 Contact:
--📧 **abrarhasan2616@gmail.com**
--📞 **+880-1842-391734**
+- 📧 **abrarhasan2616@gmail.com**
+- 📞 **+880-1842-391734**
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/abrarhasan529)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/in/mdabrarhasan/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/abrarhasan7538)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/_abrar.hasan_/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/tweets_by_abrar)  
