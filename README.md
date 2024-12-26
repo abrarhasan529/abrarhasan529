@@ -1,4 +1,3 @@
-<div align="center"> <img src="https://ibb.co.com/MhH8Cj1"> </div>
 # Hi there! I'm Md Abrar Hasan
 
 #### ***A young computer programmer who is so enthusiastic about Web Development and interested in building a fruitful career in this demanding sector.***
